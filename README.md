@@ -1,0 +1,2 @@
+# easycheck
+custom golang lint.
